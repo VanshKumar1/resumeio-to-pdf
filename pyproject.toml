@@ -1,0 +1,16 @@
+[tool.black]
+line-length = 120
+verbose = true
+preview = true
+
+[tool.ruff]
+line-length = 120
+lint.select = [
+    "F",  # pyflakes
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "I",  # isort
+    "N",  # pep8-naming
+    "COM",  # flake8-commas
+    "Q",  # flake8-quotes
+]
