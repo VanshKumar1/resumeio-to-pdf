@@ -41,7 +41,7 @@ docker run -p 8000:8000 resumeio-to-pdf
 
 Open your browser and access http://localhost:8000
 
-### Disclaimer
+### Disclaimer 
 
 Please be advised that this application is designed for preview purposes only. 
 
